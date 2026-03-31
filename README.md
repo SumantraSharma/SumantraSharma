@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sumantra 👋
+AI & Machine Learning enthusiast | Full-Stack Developer | Building real-world intelligent apps
 
-<!--
-**SumantraSharma/SumantraSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science graduate (BSc Hons, University of Wolverhampton) based in New York City.  
+I build AI-powered applications and full-stack web apps using **Node.js, React, Python**.  
+Currently diving deep into **Machine Learning** and **data pipelines** for real-world projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks:** Node.js, React, Express  
+- **AI/ML:** TensorFlow, PyTorch, scikit-learn  
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools:** Git, Docker, VS Code
+
