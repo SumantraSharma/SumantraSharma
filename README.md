@@ -114,7 +114,7 @@ class SumantraRajSharma:
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Message%20Me%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumantra-raj-sharma-776036238)
-[![Twitter DM](https://img.shields.io/badge/DM%20on%20Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumantra_sharma)
+
 
 <br/>
 
