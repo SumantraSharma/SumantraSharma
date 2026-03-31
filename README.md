@@ -18,19 +18,16 @@
 
 ## 🧠 About Me
 
-```python
-class SumantraRajSharma:
-    def __init__(self):
-        self.location     = "New York City 🗽"
-        self.education    = "BSc Hons Computer Science · Univ. of Wolverhampton"
-        self.role         = "AI & ML Engineer | Full-Stack Developer"
-        self.focus        = ["LLM Pipelines", "RAG Systems", "ML Engineering"]
-        self.looking_for  = "AI Engineer · ML Engineer · Full-Stack (AI-focused)"
-        self.superpower   = "Turning ML research → real products 🚀"
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-    def say_hi(self):
-        print("Let's build something intelligent together!")
-```
+🎓 &nbsp; CS graduate from **University of Wolverhampton**  
+🗽 &nbsp; Based in **New York City**  
+🤖 &nbsp; Specializing in **AI & ML Engineering**  
+🔗 &nbsp; Full-stack background — Python to React  
+🧩 &nbsp; Obsessed with turning ML research into **real products**  
+🎯 &nbsp; Open to: **AI Engineer · ML Engineer · Full-Stack AI**  
+
+<br/>
 
 ---
 
@@ -98,9 +95,5 @@ A modern, full-featured **clothing e-commerce platform** built for how people ac
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Message%20Me%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumantra-raj-sharma-776036238)
-
-<br/>
-
-*Built with intention · 2026*
 
 </div>
