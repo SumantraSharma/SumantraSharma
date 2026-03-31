@@ -10,7 +10,6 @@
 
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumantra-raj-sharma-776036238)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumantra_sharma)
 ![Location](https://img.shields.io/badge/📍%20New%20York%20City-%23FF4D6D.svg?style=for-the-badge&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/⚡%20Open%20to%20Work-%2300F5C4.svg?style=for-the-badge&logoColor=black)
 
