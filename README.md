@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Sumantra Raj Sharma
+#  Sumantra Raj Sharma
 
 ### AI & ML Engineer &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; New York City 🗽
 
