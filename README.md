@@ -23,8 +23,7 @@
 🎓 &nbsp; CS graduate from **University of Wolverhampton**  
 🗽 &nbsp; Based in **New York City**  
 🤖 &nbsp; Specializing in **AI & ML Engineering**  
-🔗 &nbsp; Full-stack background — Python to React  
-🧩 &nbsp; Obsessed with turning ML research into **real products**  
+🔗 &nbsp; Full-stack background — Python to React   
 🎯 &nbsp; Open to: **AI Engineer · ML Engineer · Full-Stack AI**  
 
 <br/>
