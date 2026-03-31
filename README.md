@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<!-- TYPING ANIMATION — always works, hosted on demolab -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5C4&center=true&vCenter=true&width=700&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sumantra+Sharma;AI+%26+ML+Engineer+based+in+NYC+%F0%9F%97%BD;Building+intelligent+systems+that+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
@@ -89,18 +88,6 @@ A modern, full-featured **clothing e-commerce platform** built for how people ac
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Sumantra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SumantraSharma&bg_color=0d1117&color=00f5c4&line=7b61ff&point=ff4d6d&area=true&hide_border=true)](https://github.com/SumantraSharma)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumantraSharma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5c4&icon_color=7b61ff&text_color=e2e8f0&count_private=true)
-
-</div>
-
----
-
 ## 📬 Let's Talk
 
 <div align="center">
@@ -114,8 +101,6 @@ A modern, full-featured **clothing e-commerce platform** built for how people ac
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=footer)
-
-
+*Built with intention · 2026*
 
 </div>
