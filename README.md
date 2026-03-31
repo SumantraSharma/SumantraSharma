@@ -4,13 +4,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5C4&center=true&vCenter=true&width=700&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sumantra+Sharma;AI+%26+ML+Engineer+based+in+NYC+%F0%9F%97%BD;Building+intelligent+systems+that+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
+# 👋 Sumantra Raj Sharma
+
+### AI & ML Engineer &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; New York City 🗽
+
+> *Building intelligent systems that actually ship — from LLM pipelines to production-ready apps.*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumantra-raj-sharma-776036238)
-![Location](https://img.shields.io/badge/📍%20New%20York%20City-%23FF4D6D.svg?style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/⚡%20Open%20to%20Work-%2300F5C4.svg?style=for-the-badge&logoColor=black)
+&nbsp;
+![New York City](https://img.shields.io/badge/📍_New_York_City-1a1a2e?style=for-the-badge)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/✅_Open_to_Work-0d7377?style=for-the-badge)
 
 </div>
 
@@ -23,7 +29,7 @@
 🎓 &nbsp; CS graduate from **University of Wolverhampton**  
 🗽 &nbsp; Based in **New York City**  
 🤖 &nbsp; Specializing in **AI & ML Engineering**  
-🔗 &nbsp; Full-stack background — Python to React   
+🔗 &nbsp; Full-stack background — Python to React  
 🎯 &nbsp; Open to: **AI Engineer · ML Engineer · Full-Stack AI**  
 
 <br/>
