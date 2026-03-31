@@ -116,6 +116,6 @@ A modern, full-featured **clothing e-commerce platform** built for how people ac
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=footer)
 
-*Built with intention · Updated 2026*
+
 
 </div>
