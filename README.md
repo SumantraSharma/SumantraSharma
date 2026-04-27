@@ -4,13 +4,11 @@
 
 ### AI/ML Engineer &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; New York City 🗽
 
-*Building systems that go from experiment to production — not just notebooks.*
+*I don't just build models — I ship products that actually work.*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumantra-raj-sharma-776036238)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=vercel&logoColor=00b4d8)](https://github.com/SumantraSharma)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumantrasharma97@gmail.com)
 &nbsp;
@@ -20,30 +18,78 @@
 
 ---
 
-## About
+## 👋 Hey, I'm Sumantra
 
-CS graduate (University of Wolverhampton · Dec 2024), based in **New York City**. I build AI/ML systems and full-stack applications that solve real problems — not tutorial clones.
+I'm a CS grad (University of Wolverhampton, Dec 2024) living in **New York City**.
 
-My capstone was **FraudNet**: a real-time fraud detection platform using an XGBoost + Isolation Forest ensemble with sub-50ms scoring, SHAP explainability per decision, and a live Next.js 14 dashboard. I've since extended it with a FastAPI backend, Redis caching, and Prometheus monitoring endpoints.
+I build two kinds of things: **AI/ML systems** that make real decisions, and **full-stack web apps** that people can actually use. Not side projects that sit in notebooks forever — stuff that runs, scales, and solves a real problem.
 
-I also ship product: my personal portfolio has a **live Claude API chat widget** backed by a Python Flask server, and I've built and deployed a full MERN e-commerce platform with an AI-powered style advisor.
+My biggest project so far is **FraudNet** — a fraud detection system I built from scratch using machine learning. It catches fraud in under 50 milliseconds and explains *why* it flagged something, not just that it did. I also have a live AI chat assistant running on my own portfolio website, powered by the Claude API.
 
-Trilingual in **English · Nepali · Hindi** — a consistent edge in NYC's diverse tech scene.
+I speak **English, Nepali, and Hindi** — which helps a lot in New York.
 
 ---
 
-## Tech Stack
+## 🚀 Projects I've Shipped
 
-**AI / Machine Learning**
+### 🔍 FraudNet — Fraud Detection Platform
+
+This started as my university capstone and turned into something I'm genuinely proud of.
+
+It uses two ML models working together (XGBoost + Isolation Forest) to catch fraudulent transactions in real time. But the part I'm most proud of? It doesn't just say "fraud" — it shows *why*, using SHAP values. That matters in the real world, where a human needs to review and act on the alert.
+
+| What it does | How |
+|---|---|
+| Catches fraud in real time | Sub-50ms response time |
+| 95%+ accuracy | XGBoost + Isolation Forest ensemble |
+| Explains every decision | SHAP values per transaction |
+| Live dashboard | Next.js 14 frontend |
+| Tracks model health | Prometheus monitoring endpoints |
+| Handles scale | Redis caching + FastAPI backend |
+
+I rebuilt it twice — first as a Streamlit prototype, then as a proper production-grade app with a FastAPI backend and a Next.js frontend. That rewrite taught me more than any course ever did.
+
+[![GitHub](https://img.shields.io/badge/View_Repo-0d1b2a?style=flat-square&logo=github&logoColor=white)](https://github.com/SumantraSharma)
+
+---
+
+### 🛒 Buy Now Central — E-Commerce + AI Style Advisor
+
+A full clothing store — not a template, built from scratch. You can browse, add to cart, check out, and manage orders. There's also an AI advisor that recommends styles based on what you're looking at.
+
+`React` · `Node.js` · `Express` · `MongoDB` · `JWT Auth` · `AI Advisor`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-0d1b2a?style=flat-square&logo=github&logoColor=white)](https://github.com/SumantraSharma/Buy-Now-Central)
+
+---
+
+### 🅿️ ParkMandu — Smart Parking App for Kathmandu
+
+Real-time parking finder with an interactive map. You can see which spots are open and book one — all in one flow. Built to accessibility standards (WCAG 2.1 AA) so it works for everyone.
+
+`React` · `Node.js` · `MongoDB` · `Leaflet.js`
+
+---
+
+### 🤖 AI Portfolio Assistant — Live on My Website
+
+My portfolio has a Claude-powered chat widget where visitors can ask questions about my work and get real answers — not canned responses. The backend is Python Flask, and contact form submissions save to SQLite and trigger email notifications.
+
+`Claude API` · `Python` · `Flask` · `SQLite`
+
+---
+
+## 🛠️ Tools I Work With
+
+**AI & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-111827?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Isolation Forest](https://img.shields.io/badge/Isolation_Forest-4B5563?style=flat-square)
 
-**Full-Stack**
+**Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -51,7 +97,7 @@ Trilingual in **English · Nepali · Hindi** — a consistent edge in NYC's dive
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Data & Infrastructure**
+**Databases & Infrastructure**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -62,94 +108,31 @@ Trilingual in **English · Nepali · Hindi** — a consistent edge in NYC's dive
 
 ---
 
-## Featured Projects
+## 🎯 What I'm Working On Right Now
 
-### 🔍 FraudNet — Enterprise Fraud Detection Platform
-
-> Real-time ML fraud detection built to production standards — not a Kaggle demo.
-
-| Spec | Detail |
-|---|---|
-| **Models** | XGBoost + Isolation Forest ensemble |
-| **Latency** | Sub-50ms scoring |
-| **Accuracy** | 95%+ on holdout |
-| **Explainability** | SHAP values per decision |
-| **Stack** | FastAPI · Next.js 14 · Redis · Prometheus |
-| **Features** | Live transaction feed · Alert queue · Case management · Model monitoring |
-
-Started as a Streamlit prototype, now a fully modular FastAPI + Next.js production stack with real-time monitoring endpoints and model drift detection — a complete MLOps story.
-
-[![GitHub](https://img.shields.io/badge/View_Repo-0d1b2a?style=flat-square&logo=github&logoColor=white)](https://github.com/SumantraSharma)
+- **FraudNet v2** — Adding a model retraining pipeline that kicks in automatically when the model starts drifting. Also exploring LLM-generated case summaries for the alert queue.
+- **AWS Cloud Practitioner** — Certification in progress. Next step after that is cloud-native ML deployment.
+- **Building in public** — Sharing what I learn, attending NYC tech meetups, and looking for early-stage AI product teams to work with.
 
 ---
 
-### 🛒 Buy Now Central — Full-Stack E-Commerce + AI Advisor
+## ✨ A Few Things That Set Me Apart
 
-Full MERN stack clothing platform with an AI-powered style recommendation engine, JWT auth, shopping cart, checkout, and order management — built to feel production-grade.
+🗣️ **Trilingual** — English, Nepali, Hindi. I can connect with people and clients that most engineers can't.
 
-`React` · `Node.js` · `Express` · `MongoDB` · `JWT Auth` · `AI Advisor`
+🎤 **Certified public speaker** (Media Training House) — I can explain technical things clearly to non-technical people. This matters more than most engineers think.
 
-[![GitHub](https://img.shields.io/badge/View_Repo-0d1b2a?style=flat-square&logo=github&logoColor=white)](https://github.com/SumantraSharma/Buy-Now-Central)
+🏗️ **I finish things** — Every project here is something I built end to end and can walk you through in detail. No half-finished repos.
 
----
-
-### 🅿️ ParkMandu — Smart Parking App · Kathmandu
-
-Real-time parking discovery and reservation with an interactive Leaflet.js map, live availability, and WCAG 2.1 AA accessibility compliance.
-
-`React` · `Node.js` · `MongoDB` · `Leaflet.js` · `WCAG 2.1 AA`
+📍 **Available now** — Based in NYC, open to hybrid or remote roles.
 
 ---
 
-### 🤖 AI Portfolio Assistant — Live Claude API Integration
+## 📬 Want to Work Together?
 
-My personal portfolio site has a Claude API chat widget embedded and running live. Backend is Python Flask with SQLite persistence for contact submissions. Visitors can ask the AI questions about my work in real time.
+I'm looking for roles in **AI/ML Engineering** or **Full-Stack Development** — ideally at a team that's building something ambitious with data, LLMs, or intelligent systems.
 
-`Claude API` · `Python` · `Flask` · `SQLite`
-
----
-
-## What I'm Building in 2026
-
-- **FraudNet v2** — Adding LLM-assisted case narrative generation and a model retraining pipeline triggered by drift alerts
-- **AWS Cloud Practitioner** — Certification in progress; moving toward cloud-native ML deployment
-- **Open-source contributions** — Starting with FastAPI and scikit-learn adjacent tooling
-- **NYC startup ecosystem** — Attending meetups, building in public, looking for early-stage AI product teams
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SumantraSharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumantraSharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SumantraSharma&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
----
-
-## A Few Things Worth Knowing
-
-- 🗣️ Trilingual — English, Nepali, Hindi. I can work with diverse teams and clients most engineers can't reach.
-- 🎤 Public Speaking Certification (Media Training House) — I present technical work clearly to non-technical audiences.
-- 📍 Based in NYC, available immediately for hybrid or remote roles.
-- 🧱 I believe in shipping working software, not collecting tools. Every project in my portfolio is something I built end to end and can explain at depth.
-
----
-
-## Let's Connect
-
-**Open to:** AI/ML Engineering · Full-Stack Development · Data-driven product roles · Early-stage startup teams
-
-If you're building something serious with ML, LLMs, or intelligent systems — I'd like to hear about it.
+If that sounds like you, reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumantra-raj-sharma-776036238)
 &nbsp;
