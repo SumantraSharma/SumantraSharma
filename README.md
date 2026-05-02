@@ -53,6 +53,24 @@ I rebuilt it twice — first as a Streamlit prototype, then as a proper producti
 
 ---
 
+### 🪸 CoralWatch — AI Coral Reef Monitoring System
+
+An end-to-end satellite monitoring pipeline that detects coral bleaching in real time using deep learning. Ingests Sentinel-2 imagery on a 5-day revisit cycle across 6 major reef sites (Great Barrier Reef, Maldives, and others).
+
+| What it does | How |
+|---|---|
+| Scans reefs every 5 days | Sentinel-2 satellite imagery via Google Earth Engine |
+| Identifies coral health | DeepLabV3+ with EfficientNet-B4 backbone, 6 health classes |
+| Detects bleaching events | Rolling z-score anomaly detection across 12 time periods |
+| 3-tier alert system | Watch ≥15% · Alert ≥30% · Critical ≥50% bleaching |
+| Live dashboard for scientists | Next.js + Leaflet maps + FastAPI backend |
+
+`PyTorch` · `FastAPI` · `Next.js` · `Google Earth Engine` · `Leaflet.js` · `Sentinel-2`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-0d1b2a?style=flat-square&logo=github&logoColor=white)](https://github.com/SumantraSharma)
+
+---
+
 ### 🛒 Buy Now Central — E-Commerce + AI Style Advisor
 
 A full clothing store — not a template, built from scratch. You can browse, add to cart, check out, and manage orders. There's also an AI advisor that recommends styles based on what you're looking at.
@@ -63,17 +81,11 @@ A full clothing store — not a template, built from scratch. You can browse, ad
 
 ---
 
-### 🅿️ ParkMandu — Smart Parking App for Kathmandu
-
-Real-time parking finder with an interactive map. You can see which spots are open and book one — all in one flow. Built to accessibility standards (WCAG 2.1 AA) so it works for everyone.
-
-`React` · `Node.js` · `MongoDB` · `Leaflet.js`
-
----
-
 ### 🤖 AI Portfolio Assistant — Live on My Website
 
 My portfolio has a Claude-powered chat widget where visitors can ask questions about my work and get real answers — not canned responses. The backend is Python Flask, and contact form submissions save to SQLite and trigger email notifications.
+
+🌐 **Live:** [sumantra-portfolio.onrender.com](https://sumantra-portfolio.onrender.com)
 
 `Claude API` · `Python` · `Flask` · `SQLite`
 
@@ -84,10 +96,19 @@ My portfolio has a Claude-powered chat widget where visitors can ask questions a
 **AI & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-111827?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Computer Vision & Geospatial**
+
+![DeepLabV3+](https://img.shields.io/badge/DeepLabV3+-EE4C2C?style=flat-square)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-B4-0d1b2a?style=flat-square)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white)
+![Sentinel-2](https://img.shields.io/badge/Sentinel--2_Imagery-1a73e8?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 **Frontend & Backend**
 
@@ -110,6 +131,7 @@ My portfolio has a Claude-powered chat widget where visitors can ask questions a
 
 ## 🎯 What I'm Working On Right Now
 
+- **CoralWatch** — Finalizing the automated 5-day satellite scan pipeline and improving bleaching detection accuracy across edge cases.
 - **FraudNet v2** — Adding a model retraining pipeline that kicks in automatically when the model starts drifting. Also exploring LLM-generated case summaries for the alert queue.
 - **AWS Cloud Practitioner** — Certification in progress. Next step after that is cloud-native ML deployment.
 - **Building in public** — Sharing what I learn, attending NYC tech meetups, and looking for early-stage AI product teams to work with.
