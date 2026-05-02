@@ -144,7 +144,6 @@ My portfolio has a Claude-powered chat widget where visitors can ask questions a
 
 🎤 **Certified public speaker** (Media Training House) — I can explain technical things clearly to non-technical people. This matters more than most engineers think.
 
-🏗️ **I finish things** — Every project here is something I built end to end and can walk you through in detail. No half-finished repos.
 
 📍 **Available now** — Based in NYC, open to hybrid or remote roles.
 
