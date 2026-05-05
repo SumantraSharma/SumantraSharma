@@ -32,7 +32,7 @@ I speak **English, Nepali, and Hindi** — which helps a lot in New York.
 
 ## 🚀 Projects I've Shipped
 
-### 🔍 FraudNet — Fraud Detection Platform
+### 🔍 Fraudora AI — Fraud Detection Platform
 
 This started as my university capstone and turned into something I'm genuinely proud of.
 
@@ -53,7 +53,7 @@ I rebuilt it twice — first as a Streamlit prototype, then as a proper producti
 
 ---
 
-### 🪸 CoralWatch — AI Coral Reef Monitoring System
+### 🪸 Marisight — AI Coral Reef Monitoring System
 
 An end-to-end satellite monitoring pipeline that detects coral bleaching in real time using deep learning. Ingests Sentinel-2 imagery on a 5-day revisit cycle across 6 major reef sites (Great Barrier Reef, Maldives, and others).
 
