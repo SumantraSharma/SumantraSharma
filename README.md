@@ -26,7 +26,7 @@ I build two kinds of things: **AI/ML systems** that make real decisions, and **f
 
 My biggest project so far is **FraudNet** — a fraud detection system I built from scratch using machine learning. It catches fraud in under 50 milliseconds and explains *why* it flagged something, not just that it did. I also have a live AI chat assistant running on my own portfolio website, powered by the Claude API.
 
-I speak **English, Nepali, and Hindi** — which helps a lot in New York.
+I speak **English, Spanish, Nepali, and Hindi** — which helps a lot in New York.
 
 ---
 
